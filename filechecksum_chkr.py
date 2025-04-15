@@ -1,4 +1,5 @@
 #reference used which turned out to be the simplest way just for testing purposes
+#for me -- the syntax setup -- not meaning the hashlib is a simple construct nor the md5
 #https://bobbyhadz.com/blog/python-calculate-md5-hash-checksum-of-file
 
 import hashlib
